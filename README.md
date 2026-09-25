@@ -1,6 +1,6 @@
-# Binwise — website
+# Toybin Sort — website
 
-Static site (no build step, no npm) for Binwise, served by GitHub Pages from `main`.
+Static site (no build step, no npm) for Toybin Sort, served by GitHub Pages from `main`.
 
 **Do not hand-edit:** it is generated from the game repo with
 `python3 tools/make_website.py ../binwise-website` (copy, theme and screenshot list in `tools/website.json`).
